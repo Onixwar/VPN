@@ -1,4 +1,3 @@
-# /opt/telegram_wireguard/utils.py
 import os
 import time
 import aiosqlite
